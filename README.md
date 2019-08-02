@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Esta herramienta implementa la transformada Principals Components Analysisv (PCA) como técnica de fusión de imágenes sobre una arquitectura de computación heterogénea CPU/GPU utilizando un modelo de procesamiento paralelo masivo, el cual fue desarrollado mediante CUDA. La evaluación de esta implementación evidenció un Speed-up de hasta (falta veces)X en el proceso de fusión de una imagen de 8192 píxeles. En cuanto a calidad de la imagen obtenida, se observar un incremento significativo en su detalle espacial.
+Esta herramienta implementa la transformada Principals Components Analysis (PCA) como técnica de fusión de imágenes sobre una arquitectura de computación heterogénea CPU/GPU utilizando un modelo de procesamiento paralelo masivo, el cual fue desarrollado mediante CUDA. La evaluación de esta implementación evidenció un Speed-up de hasta (falta veces)X en el proceso de fusión de una imagen de 8192 píxeles. En cuanto a calidad de la imagen obtenida, se observar un incremento significativo en su detalle espacial.
 
 ## Manual de Usuario
 
